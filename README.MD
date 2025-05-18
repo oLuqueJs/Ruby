@@ -2,7 +2,7 @@
 
 
 Welcome to my Ruby repository!
-This repository server a learning resource and a collection of examples for understating and praticing ruby fundamentals.
+This repository serves as a learning resource and a collection of examples for understating and praticing ruby fundamentals.
 
 ## Table of Contents
 - [Overview](#overview)
